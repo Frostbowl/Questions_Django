@@ -4,6 +4,12 @@
 
   Comment opérer proprement la liaison entre le branch main, les branchs secondaires et le framework GitHUb ?
 
-  Dans quel dossier faut il lancer le git init ?
+  Dans quel dossier faut il lancer le git init ? (les dossiers Scripts et Lib doivent-ils être englobés ?
 
   Pourquoi mes pull en ligne de commande ne me renvoient pas TOUS mes fichiers .py ?
+
+  ## **Questions Django**
+
+  Comment lier deux applications sur une même base ?
+
+  Comment retirer un objet objet d'une DB pour le stocker dans "l'inventaire" d'un utilisateur ?
