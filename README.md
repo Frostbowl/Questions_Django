@@ -14,4 +14,5 @@
 
   Comment retirer un objet objet d'une DB pour le stocker dans "l'inventaire" d'un utilisateur ?
 
-  Peux-t-on créer une def réutilisable seulement avec un appel en modifiant les paramètres de celle ci ?
+  Peux-t-on créer une def réutilisable seulement avec un appel en modifiant les paramètres de celle ci ? (traduction = automatiser une seule def plutôt que de la ré écrire 
+  plusieurs fois avec des paramètres différents)
