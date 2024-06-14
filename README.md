@@ -16,3 +16,7 @@
 
   Peux-t-on créer une def réutilisable seulement avec un appel en modifiant les paramètres de celle ci ? (traduction = automatiser une seule def plutôt que de la ré écrire 
   plusieurs fois avec des paramètres différents)
+
+A quoi sert le context dans la déclaration d'une def ?
+
+Différence entre Field et Charfield
