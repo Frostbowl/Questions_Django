@@ -1,22 +1,9 @@
 # **Questions_Django**
 
-## **Django & GitHub**
-
-  Comment opérer proprement la liaison entre le branch main, les branchs secondaires et le framework GitHUb ?
-
-  Dans quel dossier faut il lancer le git init ? (les dossiers Scripts et Lib doivent-ils être englobés ?
-
-  Pourquoi mes pull en ligne de commande ne me renvoient pas TOUS mes fichiers .py ?
-
   ## **Questions Django**
 
-  Comment lier deux applications sur une même base ?
-
-  Comment retirer un objet objet d'une DB pour le stocker dans "l'inventaire" d'un utilisateur ?
-
-  Peux-t-on créer une def réutilisable seulement avec un appel en modifiant les paramètres de celle ci ? (traduction = automatiser une seule def plutôt que de la ré écrire 
-  plusieurs fois avec des paramètres différents)
-
-A quoi sert le context dans la déclaration d'une def ?
-
-Différence entre Field et Charfield
+Traduction de la ligne suivante: def __str__(self)
+comment peut on créer un utilisateur et des authorisations en fonction de l'utilisateur créé.
+Revoir le principes de tests unitaire, qu'est ce que c'est, comment les créer ?
+comment appeler des models déjà créés depuis une autre app ?
+comment "mettre en place une base de donnée avec des données Test"
