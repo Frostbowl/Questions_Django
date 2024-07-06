@@ -10,4 +10,4 @@ mode op :
 > Merdge sur GitHub ( https://github.com/Frostbowl/projet_django )
 # Ensuite
 ## Depuis terminal Django
-> Voir les screen des erreurs lors de la tentative de git pull depuis la branch main
+> Voir les screen des erreurs lors de la tentative de git pull depuis la branch main dans le dossier bug
