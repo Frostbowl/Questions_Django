@@ -9,3 +9,5 @@
 4. Que faut il modifier pour faire apparaître mon Profiler en Dev sur toutes mes pages ?
 
 5. "Tous les URLs sont des URIs, mais tous les URIs ne sont pas des URLs" dans ce cas, pourquoi ne pas utiliser que des URI ?
+
+6. Erreur à la fermeture de XAMPP, obligé de tuer l'app depuis le gestionnaire.
